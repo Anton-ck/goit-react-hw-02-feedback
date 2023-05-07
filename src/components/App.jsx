@@ -1,4 +1,3 @@
-// import { FeedBackForm } from './feedbackForm/feedbackForm';
 import React, { Component } from 'react';
 import { Container } from './App.styled';
 import { Section } from './Section/Section';
